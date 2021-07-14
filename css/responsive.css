@@ -1,0 +1,164 @@
+@media (max-width:1200px){
+   
+
+    .section{height: 600px}
+    .image-section{
+        width: 45%;
+        height: 600px;
+    }
+    .content-section{width: 55%;height: 600px;}
+
+    .services{
+        height: auto;
+        
+    }
+    .myskills{
+        height: auto;
+    }
+    .footer .container .row{
+        padding: 0;
+    }
+
+   
+}
+
+    
+    
+@media (max-width:992px){
+    .section{height: 600px}
+    .image-section{
+        width: 54%;
+        height: 600px;
+    }
+    .image-section img{
+        height: 450px;
+        width: auto;
+    }
+    .content-section{width: 46%;height: 600px; padding-top: 6rem;
+    }
+
+    .card .card-body{
+        padding: 1rem 2rem;
+    }
+    .footer .container .row{
+        padding: 0;
+    }
+
+}
+
+
+@media (max-width: 768px){
+
+    #about {display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        padding: 20px;height: auto;}
+    .image-section img{
+        height: auto;
+    }
+    .image-section{padding-top: 1; padding-bottom: 0;height: 400px;}
+    .content-section{padding-top: 4rem;width: auto;height: auto;}
+    .content-section .content p{text-align: justify;}
+    .footer .me a{
+       padding: 0px 0px;
+            
+      }
+    .services{height: auto;}
+    .myskills{height: auto;}
+    .message{height: auto;}
+    .footer{height: auto;}
+    .footer .location i{
+        display: initial;
+    }
+
+
+
+    
+}
+
+@media (max-width:515px){
+    mein-header .nav-links{
+        padding-left: none;
+    }
+    /* .image-section{
+        height: 250px;
+    }
+    .content-section{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    } */
+    .myskills .container{
+        display: list-item;
+    }
+
+    .message .fields{
+
+        display: inline;
+    }
+    .message .fields .field-name{
+        padding-top: 10px;
+        padding-right: 3px;
+        background-color: whitesmoke;
+        height: auto;
+        width: auto;
+    }
+    .message .fields .field-email{
+        padding-top: 4px;
+        background-color: whitesmoke;
+        height: auto;
+        width: auto;
+    }
+    .message .field-textarea .text{
+        width: 220px;
+        height: auto;
+    }
+
+    .footer .container .row{
+        display: inline;
+    }
+
+    
+}
+@media (max-width:360px){
+   .mein-header .nav-links{
+        padding-left: none;
+    }
+    .image-section{
+        height: 250px;
+    }
+    .content-section{
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+    .myskills .container{
+        display: list-item;
+    }
+
+    .message .fields{
+
+        display: inline;
+    }
+    .message .fields .field-name{
+        padding-top: 10px;
+        padding-right: 3px;
+        background-color: whitesmoke;
+        height: auto;
+        width: auto;
+    }
+    .message .fields .field-email{
+        padding-top: 4px;
+        background-color: whitesmoke;
+        height: auto;
+        width: auto;
+    }
+    .message .field-textarea .text{
+        width: 220px;
+        height: auto;
+    }
+
+    .footer .container .row{
+        display: inline;
+    }
+
+
+}
