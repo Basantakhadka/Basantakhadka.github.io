@@ -13,9 +13,12 @@ Technologies Used-->
     HTML – Structure the content
     CSS – Styling and responsiveness
     JavaScript – Interactivity and animations
-
+    Basantakhadka.github.io
 How to Use -->
 
     Clone or download the repository.
     Open index.html in your browser.
     Explore my projects, skills, and contact section!
+
+OR
+copy the link "Basantakhadka.github.io" and open in new Tab.
